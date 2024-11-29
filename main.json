@@ -1,0 +1,17 @@
+{
+    "params": {
+        "threshold1": 255,
+        "threshold2": 255,
+        "smoothing": 5.0,
+        "face_detection": true,
+        "hand_tracking": true,
+        "video_border_color": [
+            255.0,
+            255.0,
+            255.0
+        ],
+        "take_photo": false
+    },
+    "presets": {},
+    "aux": {}
+}
